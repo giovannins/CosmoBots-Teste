@@ -1,0 +1,11 @@
+{
+  "name": "testefullstak",
+  "version": "1.0.0",
+  "description": "Teste de desenvolvimento e logica de programação da CosmoBots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Neves Sadauscas",
+  "license": "ISC"
+}
