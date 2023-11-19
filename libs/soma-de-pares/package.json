@@ -1,0 +1,22 @@
+{
+  "name": "soma-de-pares",
+  "version": "1.0.0",
+  "description": "Biblioteca de soma de numeros pares dentro de um array",
+  "main": "somaPares.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "keywords": [
+    "soma",
+    "pares",
+    "array",
+    "biblioteca"
+  ],
+  "author": "Giovanni Neves Sadauscas",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "jest": "^29.7.0"
+  }
+}
