@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node index.mjs",
     "test": "jest ./tests"
   },
   "author": "Giovanni Neves Sadauscas",
