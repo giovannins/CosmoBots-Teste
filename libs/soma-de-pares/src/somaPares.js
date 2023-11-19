@@ -8,4 +8,4 @@ function somaNumerosPares(array) {
     return soma;
 }
 
-export default somaNumerosPares();
+export default somaNumerosPares;
