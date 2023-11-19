@@ -4,10 +4,10 @@ function contarPalavras(objeto) {
     }
 
     return Object.values(objeto)
-        .filter(valor => typeof valor === "string")
+        .filter(valor => typeof valor === "string") // Filtra todas as strings
         .flatMap(frase => frase.split(/\s+/))
         .reduce((contagem, palavra) => {
-            contagem[palavra] = (contagem[palavra] || 0) + 1;
+            contagem[palavra] = (contagem[palavra] || 0) + 1; // Transforma a palavra em chave e soma quatas vezes aparece 
             return contagem;
         }, {});
 }

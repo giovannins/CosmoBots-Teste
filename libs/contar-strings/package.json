@@ -2,7 +2,7 @@
   "name": "contar-strings",
   "version": "1.0.0",
   "description": "Conta as string de um objeto",
-  "main": "contarStrings.js",
+  "main": "./src/contarStrings.js",
   "type": "module",
   "scripts": {
     "test": "jest ./tests"

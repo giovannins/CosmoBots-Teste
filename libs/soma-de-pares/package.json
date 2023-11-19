@@ -2,7 +2,7 @@
   "name": "soma-de-pares",
   "version": "1.0.0",
   "description": "Biblioteca de soma de numeros pares dentro de um array",
-  "main": "somaPares.js",
+  "main": "./src/somaPares.js",
   "type": "module",
   "scripts": {
     "test": "jest ./tests"
